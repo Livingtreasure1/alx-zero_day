@@ -1,2 +1,2 @@
 My first readme
-git pull
+be up to date
